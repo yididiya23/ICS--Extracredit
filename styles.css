@@ -1,0 +1,29 @@
+body { 
+    background-color: white; 
+    color: blue;
+} 
+.red {color:black; } 
+
+#new {color: white}
+
+.container {
+    margin: 50px 30px 0px 40px; 
+    /*top. right. bottom, left */  
+    /* if only 2 values are given, it would do top, rigth, bottom and repeat the rigth for the lef the same is true for top and bottom  
+    margin-top: 0px;} */ 
+    padding: 30px;
+    border: 2px solid black;
+} 
+
+.headings{ 
+
+    font-size: 40px; 
+    padding: 40px;
+} 
+
+button { 
+    padding: 40px; 
+    border-radius: 20px;  
+    font-size: 30px;
+    margin: 50px; 
+}
